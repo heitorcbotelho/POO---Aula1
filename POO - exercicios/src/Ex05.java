@@ -1,5 +1,7 @@
+
 import java.util.Scanner;
 import java.util.Locale;
+7
 
 public class Ex05 {
     public static void main(String[] args) {
@@ -16,3 +18,4 @@ public class Ex05 {
         System.out.printf("TOTAL = R$ %.2f%n", salario);
     }
 }
+>
